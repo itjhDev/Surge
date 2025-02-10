@@ -104,11 +104,11 @@ DOMAIN, appmon-prd.zajourney.com
 DOMAIN, integrate-appgw.zajourney.com
 DOMAIN, bank-stock.zafinsvc.com
 DOMAIN, bank-sbsmarket.zafinsvc.com
-DOMAIN-suffix, za.group
-DOMAIN-suffix, zaticdn.com
-DOMAIN-suffix, zajourney.com
-DOMAIN-suffix, zafinsvc.com
-DOMAIN-suffix, zaintl.com
+DOMAIN-SUFFIX, za.group
+DOMAIN-SUFFIX, zaticdn.com
+DOMAIN-SUFFIX, zajourney.com
+DOMAIN-SUFFIX, zafinsvc.com
+DOMAIN-SUFFIX, zaintl.com
 
 # WISE
 DOMAIN, www.wise.com
@@ -126,9 +126,9 @@ DOMAIN, loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com
 DOMAIN, sdk.fra-01.braze.eu
 DOMAIN, sdk-api-v1.singular.net
 DOMAIN, wi.se
-DOMAIN-suffix, wise.com
-DOMAIN-suffix, mixpanel.com
-DOMAIN-suffix, transferwise.com
-DOMAIN-keyword, wise
-DOMAIN-keyword, transferwise
+DOMAIN-SUFFIX, wise.com
+DOMAIN-SUFFIX, mixpanel.com
+DOMAIN-SUFFIX, transferwise.com
+DOMAIN-KEYWORD, wise
+DOMAIN-KEYWORD, transferwise
 
